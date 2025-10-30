@@ -1,0 +1,10 @@
+flask
+flask-cors
+requests
+python-dotenv
+openai
+groq
+langchain
+langgraph
+pandas
+numpy
